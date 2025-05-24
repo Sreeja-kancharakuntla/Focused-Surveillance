@@ -25,7 +25,7 @@ This project uses OpenCV and Python to blur all detected faces in a webcam video
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/face-blur-except-center.git
+   git clone https://github.com/Sreeja-kancharakuntla/face-blur-except-center.git
    cd face-blur-except-center
 2. Install dependencies
     pip install opencv-python numpy
